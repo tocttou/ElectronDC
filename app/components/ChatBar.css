@@ -1,0 +1,6 @@
+.container {
+  position: absolute;
+  bottom: 0;
+  width: calc(100% - 280px);
+  display: inline-block;
+}

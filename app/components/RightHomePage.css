@@ -1,0 +1,13 @@
+.container {
+  margin-left: 256px;
+}
+
+.messagebox {
+  padding: 10px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.messagetext {
+  margin-left: 16px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "electronDC",
+  "productName": "ElectronDC",
+  "version": "1.0.0",
+  "description": "ElectronDC",
+  "main": "./main.js",
+  "author": {
+    "name": "Ashish Chaudhary",
+    "email": "me@ashishchaudhary.in",
+    "url": "https://ashishchaudhary.in"
+  },
+  "license": "GPL",
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "source-map-support": "^0.4.3",
+    "react-tap-event-plugin": "^1.0.0",
+    "material-ui": "^0.15.0"
+  }
+}
